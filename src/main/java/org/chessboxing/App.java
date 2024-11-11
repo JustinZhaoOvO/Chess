@@ -11,6 +11,3 @@ public class App
         new AppBuilder();
     }
 }
-
-//jasonwang
-//Nemo
