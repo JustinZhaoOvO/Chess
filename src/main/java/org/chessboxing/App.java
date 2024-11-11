@@ -1,4 +1,4 @@
-package org.chessboxing.Main;
+package org.chessboxing;
 
 /**
  * Hello world!
@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        new AppBuilder();
     }
 }

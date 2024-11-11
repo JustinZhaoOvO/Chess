@@ -1,4 +1,4 @@
-package org.chessboxing.Main;
+package org.chessboxing;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

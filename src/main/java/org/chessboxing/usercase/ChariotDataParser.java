@@ -5,7 +5,7 @@ import org.chessboxing.entities.ImageConstants;
 
 import java.awt.*;
 
-public class ChariotParser {
+public class ChariotDataParser {
 
 
     public int[] parsingAPosition(String pos){

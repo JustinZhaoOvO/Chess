@@ -2,13 +2,14 @@ package org.chessboxing.api_adapters;
 //CreateTime: 2024-11-10 7:10 p.m.
 
 import chariot.util.Board;
+import org.chessboxing.usercase.ChariotAdaptorInterface;
 
 import java.util.List;
 
-public class ChariotAPI {
+public class ChariotAdaptor implements ChariotAdaptorInterface {
     private Board board;
 
-    public ChariotAPI() {
+    public ChariotAdaptor() {
         this.board = Board.fromStandardPosition();
     }
 
@@ -21,6 +22,11 @@ public class ChariotAPI {
 
     public void move(String movesToPlay){
         this.board.play(movesToPlay);
+    }
+
+    @Override
+    public Board getBoard() {
+        return this.board;
     }
 
     public String toString(){
