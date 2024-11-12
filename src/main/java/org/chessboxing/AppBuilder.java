@@ -1,8 +1,7 @@
 package org.chessboxing;
 //CreateTime: 2024-11-10 11:46 p.m.
 
-import chariot.util.Board;
-import org.chessboxing.view.BoardView;
+import org.chessboxing.view.BoardView.BoardView;
 
 import javax.swing.*;
 

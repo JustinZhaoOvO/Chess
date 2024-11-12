@@ -1,4 +1,4 @@
-package org.chessboxing.usercase;
+package org.chessboxing.usercase.board;
 //CreateTime: 2024-11-11 12:12 a.m.
 
 public class Constants {

@@ -1,4 +1,4 @@
-package org.chessboxing.usercase;
+package org.chessboxing.usercase.board;
 
 import chariot.util.Board;
 
