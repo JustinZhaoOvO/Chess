@@ -1,8 +1,7 @@
-package org.chessboxing.view;
+package org.chessboxing.view.BoardView;
 //CreateTime: 2024-11-11 1:22 p.m.
 
 import java.awt.*;
-import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
 public class BoardListener extends MouseListenerAdapter {

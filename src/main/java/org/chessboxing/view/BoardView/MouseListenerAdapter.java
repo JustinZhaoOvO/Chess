@@ -1,4 +1,4 @@
-package org.chessboxing.view;
+package org.chessboxing.view.BoardView;
 //CreateTime: 2024-11-11 10:35 a.m.
 
 import java.awt.event.MouseEvent;

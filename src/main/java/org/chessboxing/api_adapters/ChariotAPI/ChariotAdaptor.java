@@ -1,8 +1,8 @@
-package org.chessboxing.api_adapters;
+package org.chessboxing.api_adapters.ChariotAPI;
 //CreateTime: 2024-11-10 7:10 p.m.
 
 import chariot.util.Board;
-import org.chessboxing.usercase.ChariotAdaptorInterface;
+import org.chessboxing.usercase.board.ChariotAdaptorInterface;
 
 import java.util.List;
 

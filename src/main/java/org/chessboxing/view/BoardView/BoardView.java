@@ -1,5 +1,7 @@
-package org.chessboxing.view;
+package org.chessboxing.view.BoardView;
 //CreateTime: 2024-11-11 10:26 a.m.
+
+import org.chessboxing.view.BoardView.PiecesView.PiecesView;
 
 import javax.swing.*;
 import java.awt.*;

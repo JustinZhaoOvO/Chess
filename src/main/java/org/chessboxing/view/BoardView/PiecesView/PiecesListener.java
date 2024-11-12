@@ -1,8 +1,10 @@
-package org.chessboxing.view;
+package org.chessboxing.view.BoardView.PiecesView;
 //CreateTime: 2024-11-11 10:38 a.m.
 
+import org.chessboxing.view.BoardView.ColorConstants;
+import org.chessboxing.view.BoardView.MouseListenerAdapter;
+
 import java.awt.*;
-import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
 public class PiecesListener extends MouseListenerAdapter {

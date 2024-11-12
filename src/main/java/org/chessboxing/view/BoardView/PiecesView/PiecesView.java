@@ -1,4 +1,4 @@
-package org.chessboxing.view;
+package org.chessboxing.view.BoardView.PiecesView;
 //CreateTime: 2024-11-11 9:29 a.m.
 
 import javax.swing.*;

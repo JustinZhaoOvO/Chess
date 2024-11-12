@@ -1,4 +1,4 @@
-package org.chessboxing.usercase;
+package org.chessboxing.usercase.board;
 //CreateTime: 2024-11-10 11:46 p.m.
 
 import org.chessboxing.entities.ImageConstants;
